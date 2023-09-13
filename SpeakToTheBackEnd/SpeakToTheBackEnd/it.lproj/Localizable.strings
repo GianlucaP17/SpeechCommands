@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  SpeakToTheBackEnd
+
+  Created by Gianluca Posca on 13/09/23.
+  
+*/
+
+"code" = "codice";
+"count" = "conta";
+"reset" = "ripristina";
+"back" = "indietro";
+
+"Current Commands available" = "Comandi disponibili";
+"Add" = "+";
+"Current State" = "Stato attuale";
+"Speech detection:" = "Rilevamento del discorso:";
+"Current Command:" = "Comando attuale:";
+"Last Commands:" = "Ultimi comandi:";
+"Command" = "Comando";
+"Parameters" = "Parametri";
+"Stop recognition" = "Arresta il riconoscimento";
+"Start recognition" = "Avvia il riconoscimento";
+
+"waiting" = "In attesa";
+"listening" = "In ascolto";
+
+"Send to BE" = "Manda al BE";
